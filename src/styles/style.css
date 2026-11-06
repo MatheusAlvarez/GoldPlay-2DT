@@ -66,6 +66,18 @@ header{
     font-weight: 700;
 }
 
+main{    
+    height: 80vh;
+    background-image: url(../assets/images/illustrationMain.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: var(--color-black);
+}
 
-
+h1{
+    color: var(--color-foreground);
+    font-size: var(--font-size-h1);
+    font-family: var(--font-title);
+    width: 492px;
+}
 
